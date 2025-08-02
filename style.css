@@ -44,9 +44,6 @@ h2,h3,h4{font-family: 'Roboto';}
 
 #video img{width: 100%;display: block;margin: auto;}
 
-
-
-
 .itensProposito{color: #fff;padding:10px;}
 
 .itensProposito:nth-child(2){padding: 30px;}
@@ -141,9 +138,7 @@ footer{display: flex;flex-direction: column;justify-content: center;text-align: 
 
     #imgResponsaOrganiza{width: 45%;}
 
-    #logoMeioPagina{display: block}
-
-    .tituloResponsa{text-align: center;}
+    #logoMeioPagina{display: block}    
 
     #textoResponsaOrganiza{padding: 0px 20px;text-align: left;font-size: 20px;padding: 2px ;}
 
@@ -267,4 +262,5 @@ footer{display: flex;flex-direction: column;justify-content: center;text-align: 
 
     #capa{height: 900px;}
 }
+
 
