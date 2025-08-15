@@ -54,7 +54,7 @@ h2,h3,h4{font-family: 'Roboto';}
 
 .itensProposito img{width: 100%;display: block;margin: auto;padding: 10px;}
 
-#guita3{border: 10px solid #fff;padding: 0;background:#222}
+#guita3{border: 10px solid #fff;padding: 0;}
 
 #guita2{display: none;}
 
@@ -188,7 +188,7 @@ footer{display: flex;flex-direction: column;justify-content: center;text-align: 
 
     .itensProposito{position: relative;width: 50%;}
 
-    #guita2{display: block;position: absolute;width:200px;top:0;margin-top: 40%;margin-left: 30%;border: 10px solid #fff;border-radius: 50%;padding: 0px;background-color:#222;}
+    #guita2{display: block;position: absolute;width:200px;top:0;margin-top: 40%;margin-left: 30%;border: 10px solid #fff;border-radius: 50%;padding: 0px;background-color:#333;}
 
     .boxInstrumentos img{height: 250px;object-fit:cover ;}
 
@@ -262,6 +262,7 @@ footer{display: flex;flex-direction: column;justify-content: center;text-align: 
 
     #capa{height: 900px;}
 }
+
 
 
 
