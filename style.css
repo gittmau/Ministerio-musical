@@ -188,7 +188,7 @@ footer{display: flex;flex-direction: column;justify-content: center;text-align: 
 
     .itensProposito{position: relative;width: 50%;}
 
-    #guita2{display: block;position: absolute;width:200px;top:0;margin-top: 40%;margin-left: 30%;border: 10px solid #fff;border-radius: 50%;padding: 0px}
+    #guita2{display: block;position: absolute;width:200px;top:0;margin-top: 40%;margin-left: 30%;border: 10px solid #fff;border-radius: 50%;padding: 0px;background:#222;}
 
     .boxInstrumentos img{height: 250px;object-fit:cover ;}
 
@@ -262,6 +262,7 @@ footer{display: flex;flex-direction: column;justify-content: center;text-align: 
 
     #capa{height: 900px;}
 }
+
 
 
 
